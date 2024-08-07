@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josechaconurias&label=Profile%20views&color=0e75b6&style=flat" alt="josechaconurias" /> </p>
 
-- 🔭 I’m currently working on **Instant Flix**
+- 🔭 I’m currently working on **Financial Advisor**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **React, Typescript and Vite**
+- 💬 Ask me about **Python, Next.js, Django**
 
 - 📫 How to reach me **jcurias123@gmail.com**
 
