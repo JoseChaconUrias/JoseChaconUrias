@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Financial Advisor**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Python, Next.js, Django**
 
