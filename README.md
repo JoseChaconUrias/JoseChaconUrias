@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Jose Chacon</h1>
-<h3 align="center">Full Stack Software Developer</h3>
+<h3 align="center">Software Engineeer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josechaconurias&label=Profile%20views&color=0e75b6&style=flat" alt="josechaconurias" /> </p>
 
-- 🔭 I’m currently working on **AbyssalDevelopment**
+- 🔭 I’m currently working on **ReactClone**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning about **Neural Networks**
 
-- 💬 Ask me about **Python, Next.js, Django**
+- 💬 Ask me about **Python, TypeScript, React**
 
 - 📫 How to reach me **jcurias123@gmail.com**
 
 - ⚡ Fun fact **I play the guitar**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 </p>
 
